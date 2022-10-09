@@ -4,3 +4,15 @@
   P.S. Называйте добавляемые файлы своими фамилиями(только на английской раскладке), чтобы мне было проще их идентифицировать. И не забудьте сделать скрин окна с pullrequest, на сайт GB необходимо отослать именно этот скрин, чтобы работа была окончательно завершена.
 
   P.P.S. Не забывайте, что отправляем на pullrequest мы побочные ветки!
+
+  # Instruction for remoting repository
+
+   ## Registration in GitHub
+
+   ## Clone the file from the teachers adress
+
+   ## Add the information in our VSCode
+
+   ## Send the file to the teacher
+
+   Well done!
